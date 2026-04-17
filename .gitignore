@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Type checker caches
+.mypy_cache/
+.pytype/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets — never commit real API keys
+rapidapi_config.json
+
+# Test / scratch files
+comm_test.json
+comm_dump_*.json
+test_api.py
+testing.py
+
+# OS junk
+Thumbs.db
+.DS_Store

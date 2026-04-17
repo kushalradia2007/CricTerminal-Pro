@@ -1,0 +1,13 @@
+{
+  "x-apihub-host": "Cricbuzz-Official-Cricket-API.allthingsdev.co",
+  "x-apihub-key": "paste_your_apihub_key_here",
+  "base_url": "https://Cricbuzz-Official-Cricket-API.proxy-production.allthingsdev.co",
+  "live_matches_path": "/home",
+  "home_endpoint": "95df5edd-bd8b-4881-a12b-1a40e519b693",
+  "scorecard_path_template": "/match/{match_id}/scorecard",
+  "scorecard_endpoint": "5f260335-c228-4005-9eec-318200ca48d6",
+  "commentary_path_template": "/match/{match_id}/commentary",
+  "commentary_endpoint": "8cb69a0f-bcaa-45b5-a016-229a2e7594f6",
+  "match_info_path_template": "/match/{match_id}",
+  "match_info_endpoint": "ac951751-d311-4d23-8f18-353e75432353"
+}
